@@ -11,7 +11,7 @@
         background-color: #282a36;
     }
     #hnmain > tbody > tr:nth-child(1) > td {
-        background-color: #44475a;
+        background-color: #6272a4;
     }
     #hnmain > tbody > tr:nth-child(4) > td > table > tbody > tr > td {
         background-color: #6272a4;
@@ -51,5 +51,13 @@
     }
     body {
         background-color: #282a36;
+    }
+    .commtext {
+        color: #f8f8f2
+    }
+    textarea, input {
+        background-color: #282a36;
+        color: #f8f8f2;
+        border-color: #8be9fd
     }
 }
